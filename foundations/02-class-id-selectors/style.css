@@ -1,0 +1,19 @@
+.text {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: pink;
+}
+
+#text-1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#text-2 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.text.cooler {
+    font-size: 24px;
+}
